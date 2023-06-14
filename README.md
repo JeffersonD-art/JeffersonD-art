@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-🤚 ¡Hola! Soy Jefferson ,<br>🌱 Estudiante autodidacta en desarrollo web.<br>⚡ Con aspiraciones de convertirme en un Frontend Developer destacado. <br>Estoy enfocado en aprender y perfeccionar mis habilidades en este campo en constante evolución.<br> ¡Estoy listo para enfrentar desafíos y crear soluciones innovadoras!
+🤚 ¡Hola! Soy Jefferson David Cano ,<br>🌱 Estudiante autodidacta en desarrollo web.<br>⚡ Con aspiraciones de convertirme en un Frontend Developer destacado. <br>Estoy enfocado en aprender y perfeccionar mis habilidades en este campo en constante evolución.<br> ¡Estoy listo para enfrentar desafíos y crear soluciones innovadoras!
 
 
 ## 🌐 Socials:
