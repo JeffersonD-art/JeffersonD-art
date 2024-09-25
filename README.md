@@ -28,14 +28,11 @@
   <img src="https://github.com/user-attachments/assets/79f6e126-c3c1-4cbf-8430-b1771717c420" width="720" height="128" alt="Bookmark Style Card">
 </a>
 
-## Las estadisticas del repositorio 📊
-![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonD-art&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonD-art&layout=compact&theme=dark)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=JeffersonD-art&icon=7&color=1)](https://visitcount.itsvg.in)
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!--- [![](https://visitcount.itsvg.in/api?id=JeffersonD-art&icon=7&color=1)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
