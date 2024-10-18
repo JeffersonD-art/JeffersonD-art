@@ -3,7 +3,9 @@
 ¡Hola! Soy Jefferson David Cano, Estudiante autodidacta en desarrollo web. Con aspiraciones de convertirme en un Frontend Developer destacado. Estoy enfocado en aprender y perfeccionar mis habilidades en este campo en constante evolución.<br>
 ¡Estoy listo para enfrentar desafíos y crear soluciones innovadoras!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://co.linkedin.com/in/jefferson-david-cano-hernandez-94073874) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://co.linkedin.com/in/jefferson-david-cano-hernandez-94073874)
+[![CV](https://img.shields.io/badge/DESCARGAR_CV-%23000000.svg?style=for-the-badge)](https://drive.google.com/file/d/128UmJBWd-gFSn50CLvQxwm47S8SJvAGL/view?usp=drive_link)
+
 
 
 ## Tecnologías 💻:
