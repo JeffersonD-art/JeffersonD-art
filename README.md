@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&width=435&lines=%C2%A1Hola!+%F0%9F%91%8B;Bienvenid%40+a+mi+espacio+en+GitHub.;%C2%A1encantado+de+tenerte+aqu%C3%AD!)](https://git.io/typing-svg)
 
-¡Hola! Soy Jefferson David Cano, Estudiante autodidacta en desarrollo web. Con aspiraciones de convertirme en un Frontend Developer destacado. Estoy enfocado en aprender y perfeccionar mis habilidades en este campo en constante evolución.<br>
+¡Hola! Soy yeferson David Cano, Estudiante autodidacta en desarrollo web. Con aspiraciones de convertirme en un Frontend Developer destacado. Estoy enfocado en aprender y perfeccionar mis habilidades en este campo en constante evolución.<br>
 ¡Estoy listo para enfrentar desafíos y crear soluciones innovadoras!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://co.linkedin.com/in/jefferson-david-cano-hernandez-94073874)
